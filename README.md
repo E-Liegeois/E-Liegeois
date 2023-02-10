@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://liegeoiselise.com/images/liegeois-elise-header.png" alt="GitHub README header image">
 
 <!--
 **E-Liegeois/E-Liegeois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
